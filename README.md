@@ -79,3 +79,5 @@ This project is licensed under the [*MIT License.*](www.bjitacademy.com)
 > recommendations.
 
 [*Click*](http://bjitacademy.com/) *here* *for* *more* *details.*
+
+conflict3
