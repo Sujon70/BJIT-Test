@@ -34,3 +34,14 @@ Information about how to use your project.
 
 This project is licensed under the [*MIT License.*](www.bjitacademy.com)
 
+**Development** **Technology**
+
+**Front-End:**
+
+> • HTML, CSS, JavaScript
+>
+> • React (Front-end framework)
+>
+> • Map integration libraries (e.g., Leaflet) for location-based
+> features 
+• Responsive design for mobile and desktop devices
